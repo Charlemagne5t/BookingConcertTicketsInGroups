@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-//TODO segment tree max + sum
+//TODO segment tree max + sum range queries
 public class BookMyShow {
     long totalNumberOfSeats;
 
